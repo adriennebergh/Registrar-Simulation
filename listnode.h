@@ -2,7 +2,6 @@
 #define LISTNODE_H_
 
 #include <iostream>
-
 using namespace std;
 
 template <typename T>
@@ -32,7 +31,6 @@ class ListNode {
 template<typename T>
 class DLinkedList {
 public:
-
 	DLinkedList();
 	~DLinkedList();
 
